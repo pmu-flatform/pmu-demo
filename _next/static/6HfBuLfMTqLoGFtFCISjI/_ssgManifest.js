@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdashboard\u002Fcontracts\u002F[id]","\u002Fdashboard\u002Fdau-thau\u002Fpackages\u002F[id]","\u002Fdashboard\u002Fgpmb\u002F[id]","\u002Fdashboard\u002Fprojects\u002F[id]","\u002Fdashboard\u002Fprojects\u002F[id]\u002Fedit"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
